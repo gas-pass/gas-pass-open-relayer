@@ -1,0 +1,23 @@
+# Note: This crate must be built using do.sh
+
+[package]
+authors = ["GAS PASS Team"]
+description = "GAS PASS - Advanced Solana Gas Solution"
+license = "MIT"
+name = "gaspass"
+version = "1.0.0"
+
+[features]
+default = []
+exclude_entrypoint = []
+program = []
+
+[dependencies]
+borsh = "0.10"
+num-derive = "0.4"
+num-traits = "0.2"
+solana-program = "1.18"
+thiserror = "1.0"
+
+[lib]
+crate-type = ["cdylib", "lib"]
