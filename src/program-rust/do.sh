@@ -55,7 +55,6 @@ perform_action() {
         ;;
     dump)
         # Dump depends on tools that are not installed by default and must be installed manually
-        # TODO: Please add the related pre-install scripts for env
         # - greadelf
         # - rustfilt
         (
