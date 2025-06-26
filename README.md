@@ -196,7 +196,7 @@ const result = await gasPass.executeGaslessTransaction(
 
 ```bash
 # Clone the relayer
-git clone https://github.com/GasPassInc/gas-pass-open-relayer
+git clone https://github.com/gas-pass/gas-pass-open-relayer
 cd gas-pass-open-relayer
 
 # Setup configuration
@@ -219,7 +219,7 @@ npm run start:relayer
 
 2. **Quick Start**
    ```bash
-   git clone https://github.com/GasPassInc/gas-pass-open-relayer
+   git clone https://github.com/gas-pass/gas-pass-open-relayer
    cd gas-pass-open-relayer
    npm install
    
@@ -306,19 +306,11 @@ We welcome contributions from the community! Whether you're a developer, designe
 
 ## 📄 **Legal & Compliance**
 
+- **💡 Ecosystem**: Ecosystem info - see [INTRO](INTRO.md) file
 - **📋 License**: MIT License - see [LICENSE](LICENSE) file
 - **🔒 Privacy Policy**: [privacy.gaspass.cc](https://privacy.gaspass.cc)
 - **📜 Terms of Service**: [terms.gaspass.cc](https://terms.gaspass.cc)
 - **🏛️ Compliance**: SOC 2 Type II, GDPR compliant
-
----
-
-## 🏆 **Recognition & Awards**
-
-- 🥇 **Solana Summer Camp 2025**: Winner - Best Infrastructure Project
-- 🏆 **Web3 Innovation Awards**: Finalist - Best Developer Tools
-- 📈 **Techstars Solana**: Portfolio Company
-- 🌟 **Product Hunt**: #1 Product of the Day
 
 ---
 
@@ -332,9 +324,9 @@ We welcome contributions from the community! Whether you're a developer, designe
 
 [![npm](https://img.shields.io/npm/v/@gaspass/sdk)](https://www.npmjs.com/package/@gaspass/sdk)
 [![Discord](https://img.shields.io/discord/gaspass)](https://discord.gg/gaspass)
-[![Twitter Follow](https://img.shields.io/twitter/follow/gaspasssolana)](https://x.com/GasPass_)
-[![GitHub stars](https://img.shields.io/github/stars/GasPassInc/gas-pass-open-relayer)](https://github.com/GasPassInc/gas-pass-open-relayer)
+[![Twitter Follow](https://img.shields.io/twitter/follow/GasPass_)](https://x.com/GasPass_)
+[![GitHub stars](https://img.shields.io/github/stars/gas-pass/gas-pass-open-relayer)](https://github.com/gas-pass/gas-pass-open-relayer)
 
-[**Get Started**](https://docs.gaspass.cc) • [**API Docs**](https://api.gaspass.cc) • [**Community**](https://discord.gg/gaspass) • [**Enterprise**](mailto:enterprise@gaspass.cc)
+[**Website**](https://gaspass.cc) • [**Get Started**](https://docs.gaspass.cc) • [**API Docs**](https://api.gaspass.cc) • [**Community**](https://discord.gg/gaspass)
 
 </div>

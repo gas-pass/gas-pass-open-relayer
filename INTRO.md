@@ -318,8 +318,6 @@ async function onboardUser(userEmail) {
 
 ---
 
-## 💼 **Business Model for Platforms**
-
 ## 🪙 **$GASPASS Token: Community-Owned Infrastructure**
 
 ### **Why a Token? Decentralizing Gas Abstraction**
@@ -639,17 +637,13 @@ const confirmations = await Promise.allSettled(
 ### **📚 Integration Guides**
 - [Platform Integration Playbook](https://docs.gaspass.cc/platform-guide)
 - [Web2 to Web3 Migration Strategies](https://docs.gaspass.cc/migration)
-- [ROI Calculator & Business Case Templates](https://platform.gaspass.cc/roi)
 - [Legal & Compliance Guidelines](https://docs.gaspass.cc/compliance)
 
 ### **🛠️ Developer Resources**
 - [Platform SDK Documentation](https://docs.gaspass.cc/platform-sdk)
-- [SDK Repository](https://github.com/GasPassInc/gas-pass-sdk)
+- [SDK Repository](https://github.com/gas-pass/gas-pass-sdk)
 - [API Reference](https://api.gaspass.cc/platform)
-- [Integration Examples](https://github.com/GasPassInc/gas-pass-sdk)
-- [Testing Tools](https://tools.gaspass.cc)
-
----
+- [Integration Examples](https://github.com/gas-pass/gas-pass-sdk)
 
 ---
 
